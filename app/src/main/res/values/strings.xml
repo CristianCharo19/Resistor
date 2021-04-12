@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Resistor</string>
+    <string name="first_significant_value">Primer valor signficativo</string>
+    <string name="second_significant_value">Segundo valor significativo</string>
+    <string name="multiplier">Multiplicador</string>
+    <string name="tolerance">Tolerancia</string>
+    <string name="resistor">Resistencia</string>
+    <string name="resistor_value">Valor de la resistencia</string>
+    <string name="calcute">Calcular</string>
+    <string-array name="values">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="multiplier">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+    <string-array name="tolerance">
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+</resources>
